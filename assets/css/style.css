@@ -122,7 +122,7 @@ h2 {
 #portfolio-line1{
 	color:#ffffff;
 	width: 300px;
-	margin-left:0px;
+	margin-left: 0px;
 }
 
 input {
@@ -221,13 +221,6 @@ h3 {
 	height: 70px;
 	border: 1px solid;
 	margin-left:10px;
-}
-
-img {
-	width:50px;
-	height: 50px;
-	border: 1px solid;
-	margin-left: 10px;
 }
 
 #line2 {
